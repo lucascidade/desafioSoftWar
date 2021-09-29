@@ -8,3 +8,8 @@ importar as migration e popular com as seeds já criadas com o comando "php arti
 
 após isso executar o comando "php artisan serve" para subir o código para o sistema
 em seguida executar o projeto e ir para a index.
+
+
+#Laravel CRUD
+
+Crud BASE em php utilizando LARAVEL.
